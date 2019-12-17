@@ -1,0 +1,4 @@
+   Hello there.
+This is a random text file that I have written
+for the purposes of testing my FileScan program.
+Have a nice day!   
