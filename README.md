@@ -1,2 +1,2 @@
 # cs504
-Work for CS504: Fundamental Computer Science II using Java
+Repo for work done for CS504: Fundamental Computer Science II using Java at Pace University for MS in CS (Fall 2019)
